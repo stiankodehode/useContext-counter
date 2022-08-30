@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a4cbc02e.css",
-    "main.js": "/react-gh-pages/static/js/main.9d0a166b.js",
-    "static/js/787.a9551d32.chunk.js": "/react-gh-pages/static/js/787.a9551d32.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.a4cbc02e.css.map": "/react-gh-pages/static/css/main.a4cbc02e.css.map",
-    "main.9d0a166b.js.map": "/react-gh-pages/static/js/main.9d0a166b.js.map",
-    "787.a9551d32.chunk.js.map": "/react-gh-pages/static/js/787.a9551d32.chunk.js.map"
+    "main.css": "/useContext-counter/static/css/main.a4cbc02e.css",
+    "main.js": "/useContext-counter/static/js/main.163dfaed.js",
+    "static/js/787.a9551d32.chunk.js": "/useContext-counter/static/js/787.a9551d32.chunk.js",
+    "index.html": "/useContext-counter/index.html",
+    "main.a4cbc02e.css.map": "/useContext-counter/static/css/main.a4cbc02e.css.map",
+    "main.163dfaed.js.map": "/useContext-counter/static/js/main.163dfaed.js.map",
+    "787.a9551d32.chunk.js.map": "/useContext-counter/static/js/787.a9551d32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4cbc02e.css",
-    "static/js/main.9d0a166b.js"
+    "static/js/main.163dfaed.js"
   ]
 }
